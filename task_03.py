@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """Imports task_02"""
 
-from task_01 import *
+from task_01.peanut import BUTTER
 
-BUTTER = peanut.BUTTER
 JELLY = BUTTER
